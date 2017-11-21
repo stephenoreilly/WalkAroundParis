@@ -14,6 +14,9 @@ const style = {
   largerTextHeader: {
     fontSize: '24px',
     lineHeight: '33px',
+    textAlign: 'center',
+    margin: '0 auto',
+    maxWidth: '80%',
   },
   galleryImages: {
     padding: "0 10px",
